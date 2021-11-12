@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyushPathak3011
-- 🌱 I’m currently learning Python, Web Development
+- 🌱 I’m currently learning Python, Web Development, Blockchain Development
 
 
 <!---

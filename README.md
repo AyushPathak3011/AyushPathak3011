@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @AyushPathak3011
-- 🌱 I’m currently learning Python, Web Development, Blockchain Development
+- Studying Computer Science Engineering 
+- 🌱 I’m currently learning Python, App Development, Blockchain Development
+- 
 
 
 <!---

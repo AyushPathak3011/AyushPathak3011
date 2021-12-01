@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning Java and Data Structures and Algorithms
 -  Interested in Blockchain technology, Web and App development
 -  Willing to contribute to open source projects
--  ontact me at: 
--  Twitter: [@fakeayush](https://twitter.com/fakeayush)
+-  Contact me at:  Twitter: [@fakeayush](https://twitter.com/fakeayush)
 , LinkedIn: [Ayush Pathak](https://www.linkedin.com/in/ayushpathak-/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=AyushPathak3011&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">

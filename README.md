@@ -2,7 +2,7 @@
 - 🎓Studying Computer Science Engineering 
 - 🌱Proficient in Python, MySQL
 - 🌱 I’m currently learning Java and Data Structures and Algorithms
--  Interested in Blockchain technology and development
+-  Interested in Blockchain technology, Web and App development
 -  Willing to contribute to open source projects
 -  ontact me at: 
 -  Twitter: [@fakeayush](https://twitter.com/fakeayush)

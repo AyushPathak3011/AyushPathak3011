@@ -11,7 +11,7 @@ I'm a Computer Science engineering student, interested in blockchain technology,
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/AyushPathak3011/AyushPathak3011/blob/main/devcard.svg" width="250" align="right"  alt="Ayush Pathak's Dev Card"/></a>
 
 ## 🔧 Technologies
-![Python](https://img.icons8.com/color/30/python--v1.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![NPM](https://img.icons8.com/color/30/npm.png)!
+![Python](https://img.icons8.com/color/30/python--v1.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![NPM](https://img.icons8.com/color/30/npm.png)![Java](https://img.icons8.com/color/30/java.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)
 
 
 <details>

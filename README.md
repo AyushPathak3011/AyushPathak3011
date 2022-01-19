@@ -13,18 +13,19 @@ I'm a Computer Science engineering student, interested in blockchain technology,
 ## 🔧 Technologies
 ![Python](https://img.icons8.com/color/30/python--v1.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![NPM](https://img.icons8.com/color/30/npm.png)!
 
-<details>
-
-<summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=AyushPathak3011&&show_icons=true)
-</details>
 
 <details>
 <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
 ![Ayush Pathak Github Stats](https://readme-stats.warengonzaga.com/api?username=AyushPathak3011&show_icons=true&count_private=true)
 
+</details>
+
+<details>
+
+<summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=AyushPathak3011&&show_icons=true)
 </details>
 <!---
 AyushPathak3011/AyushPathak3011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

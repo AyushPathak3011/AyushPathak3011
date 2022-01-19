@@ -17,7 +17,7 @@ I'm a Computer Science engineering student, interested in blockchain technology,
 <details>
 <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-![Ayush Pathak Github Stats](https://readme-stats.warengonzaga.com/api?username=AyushPathak3011&show_icons=true&count_private=true)
+![Ayush Pathak Github Stats](https://readme-stats.warengonzaga.com/api?username=AyushPathak3011&show_icons=true&count_private=true&theme=tokyonight)
 
 </details>
 
@@ -25,7 +25,7 @@ I'm a Computer Science engineering student, interested in blockchain technology,
 
 <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=AyushPathak3011&&show_icons=true)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=AyushPathak3011&theme=tokyonight)
 </details>
 <!---
 AyushPathak3011/AyushPathak3011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -13,6 +13,13 @@ I'm a Computer Science engineering student, interested in blockchain technology,
 ## 🔧 Technologies
 ![Python](https://img.icons8.com/color/30/python--v1.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![NPM](https://img.icons8.com/color/30/npm.png)!
 
+
+
+
+
+
+
+
 <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=AyushPathak3011&&show_icons=true)

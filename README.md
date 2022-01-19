@@ -10,16 +10,16 @@ I'm a Computer Science engineering student, interested in blockchain technology,
 
 <a href="https://app.daily.dev/AyushPathak3011"><img src="https://api.daily.dev/devcards/55b406cd922c4fa5a02b927077866226.png?r=lnd" width="250" align="right" alt="Ayush Pathak's Dev Card"/></a>
 
-
+## 🔧 Technologies
 ![Python](https://img.icons8.com/color/30/python--v1.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![NPM](https://img.icons8.com/color/30/npm.png)!
 
 <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=AyushPathak3011&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515")
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=AyushPathak3011&&show_icons=true)
 
 <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AyushPathak3011&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=AyushPathak3011&&show_icons=true>
 
 
 <!---

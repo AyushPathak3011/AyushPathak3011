@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/fakeayush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushpathak-/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%2322F6F7&vCenter=true&width=500&height=24&lines=Python+;Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%2322F6F7&vCenter=true&width=500&height=24&lines=Python+;Open-Source)](https://git.io/typing-svg)
 
 I'm a Computer Science engineering student, interested in blockchain technology,  Web and App development and contributing to open source, from India!
 

@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning Java and Data Structures and Algorithms
 - 🌱 Interested in Blockchain technology, Web and App development
 - 🌱 Willing to contribute to open source projects
-- 🌱Contact me at: Mail: ayushpathak3011@gmail.com, Twitter: [@fakeayush](https://twitter.com/fakeayush)
-, LinkedIn: [Ayush Pathak](https://www.linkedin.com/in/ayushpathak-/)
-
+- 🌱Contact me at: Mail: ayushpathak3011@gmail.com; Twitter: [@fakeayush](https://twitter.com/fakeayush)
+; LinkedIn: [Ayush Pathak](https://www.linkedin.com/in/ayushpathak-/)
+<a href="https://app.daily.dev/AyushPathak3011"><img src="https://api.daily.dev/devcards/55b406cd922c4fa5a02b927077866226.png?r=lnd" width="400" alt="Ayush Pathak's Dev Card"/></a>
 <img src="https://github-readme-stats.vercel.app/api?username=AyushPathak3011&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!---
 AyushPathak3011/AyushPathak3011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

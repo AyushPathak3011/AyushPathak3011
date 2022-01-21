@@ -1,6 +1,22 @@
 # Hi, I'm Ayush Pathak :computer:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/fakeayush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushpathak-/)
+
+
+<a href="https://www.linkedin.com/in/ayushpathak-/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/fakeayush">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:ayushpathak3011@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<a href="https://www.instagram.com/fakeayuss/">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br />
+<br />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%2322F6F7&vCenter=true&width=500&height=24&lines=Python+;Open-Source)](https://git.io/typing-svg)
 

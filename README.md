@@ -22,7 +22,7 @@
 
 I'm a Computer Science engineering student, interested in blockchain technology,  Web and App development and contributing to open source, from India!
 
-- 🎓 I’m currently learning Java and Data Structures and Algorithms
+- 🎓 I’m currently learning Solidity along with some Java and Data Structures and Algorithms
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/AyushPathak3011/AyushPathak3011/blob/main/devcard.svg" width="250" align="right"  alt="Ayush Pathak's Dev Card"/></a>
 
